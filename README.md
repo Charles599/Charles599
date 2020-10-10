@@ -21,6 +21,9 @@ I'm Charles, South Korea's Developer.
 
 🌱 I want to learn..
 
-<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" /> <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" /> <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
+<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" /> <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" /> <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" /> <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" /> <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" /> <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white" />
+
+
+
 
 
