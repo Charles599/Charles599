@@ -4,7 +4,7 @@ I'm Charles, South Korea's Developer.
 
 ### ✨ My GitHub Stats
 
-[![Charles' github stats](https://github-readme-stats.vercel.app/api?username=Charles599&hide=contribs&count_private=true&show_icons=true)](https://github.com/Charles599)
+[![Charles' github stats](https://github-readme-stats.vercel.app/api?username=Charles599&hide=contribs,prs,issues&count_private=true&show_icons=true)](https://github.com/Charles599)
 
 ### 📖 My Projects
 
